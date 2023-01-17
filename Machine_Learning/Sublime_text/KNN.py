@@ -1,0 +1,1 @@
+from keras.dataset import mnist
